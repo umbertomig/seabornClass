@@ -2,9 +2,7 @@
 
 > [**Umberto Mignozzetti**](www.umbertomig.com)
 >
-> Visiting Assistant Professor
->
-> Emory University and EGAP
+> Visiting Assistant Professor, Emory University and EGAP
 
 Script for my guest lecture at the CSS Program at UCSD.
 
